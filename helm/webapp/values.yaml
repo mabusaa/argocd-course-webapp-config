@@ -8,7 +8,7 @@ image:
   repository: surabhidocker123/proj1
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 809535d623394da75be9ee9fa73e664cb300690f
+  tag: 8c1ede62229121e7e52a769cbaf881181c0b7ddd
 
 imagePullSecrets: []
 nameOverride: ""
